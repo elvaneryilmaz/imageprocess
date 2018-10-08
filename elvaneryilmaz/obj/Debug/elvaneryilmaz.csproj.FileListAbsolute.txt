@@ -1,0 +1,12 @@
+C:\Users\elvan\Desktop\elvaneryilmaz\elvaneryilmaz\bin\Debug\elvaneryilmaz.exe.config
+C:\Users\elvan\Desktop\elvaneryilmaz\elvaneryilmaz\bin\Debug\elvaneryilmaz.exe
+C:\Users\elvan\Desktop\elvaneryilmaz\elvaneryilmaz\bin\Debug\elvaneryilmaz.pdb
+C:\Users\elvan\Desktop\elvaneryilmaz\elvaneryilmaz\obj\Debug\elvaneryilmaz.csprojAssemblyReference.cache
+C:\Users\elvan\Desktop\elvaneryilmaz\elvaneryilmaz\obj\Debug\elvaneryilmaz.Form1.resources
+C:\Users\elvan\Desktop\elvaneryilmaz\elvaneryilmaz\obj\Debug\elvaneryilmaz.Form2.resources
+C:\Users\elvan\Desktop\elvaneryilmaz\elvaneryilmaz\obj\Debug\elvaneryilmaz.Properties.Resources.resources
+C:\Users\elvan\Desktop\elvaneryilmaz\elvaneryilmaz\obj\Debug\elvaneryilmaz.csproj.GenerateResource.cache
+C:\Users\elvan\Desktop\elvaneryilmaz\elvaneryilmaz\obj\Debug\elvaneryilmaz.csproj.CoreCompileInputs.cache
+C:\Users\elvan\Desktop\elvaneryilmaz\elvaneryilmaz\obj\Debug\elvaneryilmaz.exe
+C:\Users\elvan\Desktop\elvaneryilmaz\elvaneryilmaz\obj\Debug\elvaneryilmaz.pdb
+C:\Users\elvan\Desktop\elvaneryilmaz\elvaneryilmaz\obj\Debug\elvaneryilmaz.Form3.resources
